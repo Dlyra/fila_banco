@@ -16,4 +16,5 @@ Você encontrará algumas sugestões de melhorias neste programa no notebook, qu
 
 ## Requisitos
 Python 3.x
+
 Jupyter Lab ou Notebook
